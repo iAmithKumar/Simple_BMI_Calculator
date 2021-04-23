@@ -1,4 +1,4 @@
-# bmicalci
+# BMICalculator
 
 A new Flutter application to calculate the body mass index of a person.
 
